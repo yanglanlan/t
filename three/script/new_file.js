@@ -5,7 +5,7 @@ apiready = function(){
 	//var MCAST_DATA = 'shenq';
 	//var MCAST_DATA = '1111111111111111111111111111';
 	var MUL_SEND_DATA = 'a';
-	var START_MULADD1 =	"234.10.00.00";
+	var START_MULADD1 =	"234.10.44.44";
 	//var START_MULADD2 =	"234.10.44.44";
 	//var START_MULADD3 =	"234.10.44.44";
 	//var START_MULADD4 =	"234.10.44.44";
@@ -14,9 +14,9 @@ apiready = function(){
 	var START_MULADD4 =	"234.10.33.33";
 	//var START_MULADD4 =	"225.224.224.255";
 
-	var DATA_START_ADD = "234.20.00.11";
+	var DATA_START_ADD = "234.20.44.11";
 	var DATA_TRAN_ADD =	"234.30.XX.YY";
-	var DATA_END_ADD = "234.20.00.22";
+	var DATA_END_ADD = "234.20.44.22";
 
 	//var DATA_START_ADD = "234.10.44.44";
 	//var DATA_TRAN_ADD =	"234.10.44.44";
