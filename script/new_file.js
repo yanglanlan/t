@@ -140,7 +140,7 @@ function show2(str){
 
 		dataLen = data.length;
 
-		for (var loop=0;loop<60;loop++)
+		for (var loop=0;loop<120;loop++)
 		{
 			udpMulData2(START_MULADD1,10);
 			udpMulData2(START_MULADD2,20);
