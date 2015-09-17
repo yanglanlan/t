@@ -159,7 +159,7 @@ function show2(str){
 			//api.alert({msg:ip});
 			//msleep(1000);
 			udpMulData(ip,data[i+1].charCodeAt());
-			udpMulData(ip,data[i+1].charCodeAt());
+			//udpMulData(ip,data[i+1].charCodeAt());
 		}
 
 		if (dataLen%2)
